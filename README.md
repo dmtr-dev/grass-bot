@@ -15,4 +15,4 @@ pip install -r requirements.txt
 
 
 # Админ/Вопросы
-## TG Channel - https://t.me/dmtrcrypto
+### TG Channel - https://t.me/dmtrcrypto
